@@ -10,9 +10,10 @@ def click(x,y):
 def start(arrows): 
     for i in range(0,(arrows/150)+1,1):
         print 150*(i+1), ' arrows'
+        click(1249,386)
         time.sleep(3)
-        # click(987,589)
-        time.sleep(12)
+        click(987,516)
+        time.sleep(12) 
     print '----'
     print 'Done'
 
