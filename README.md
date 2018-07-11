@@ -1,2 +1,4 @@
-# runescape-auto-fletcher-python
-A python program to automate fletching in RuneScape
+# RuneScape Auto Fletcher 
+I used to play a lot of RuneScape when I was small. Any RuneScape player would know that fletching is one of the best ways to make money. but it was such a menial and a boring task. Basically Fletching is when you have: Feathers (36 gp), Arrow Shaft (8 gp), When we fletch it together, We get a Headless Arrow which (57 gp), From this we can calculate the profit that we will make with ONE FLETCH, That is 57 - (36 + 8) = 13. With one fletch we make a profit of 13 gp. So imagine we could do this for 100,000 feathers and 100,000 arrow shafts. We get a profit of: 100,000 * 13 = 1,300,000, Thats 1.3 Million GP. But the only problem is Fletching 100,000 feathers and arrow shafts will take several hours, and you have to keep clicking. So this python program Automates the process. You can keep this on and go to sleep and make millions as you wake up. 
+
+You can see the code `click(1249,386)` change it to an `x,y` cordinate that you want to click. 
